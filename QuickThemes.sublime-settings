@@ -4,16 +4,16 @@
 		{
 		},
 		{
-			"color_scheme": "Packages/Solarized Color Scheme/Solarized (Light).tmTheme",
+			"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
 			"font_face": "Source Code Pro Sembibold",
 			"font_size": 10
 		}
 	],
 	"quick_themes_defaults":
 	{
-		"color_scheme": "Packages/Solarized Color Scheme/Solarized (Dark).tmTheme",
+		"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
 		"font_face": "Source Code Pro Sembibold",
 		"font_size": 10
 	},
-	"quick_themes_selection": 1
+	"quick_themes_selection": 0
 }

@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Source Code Pro Sembibold",
 	"font_size": 10,
@@ -8,5 +8,6 @@
 		"Vintage"
 	],
 	"spell_check": true,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
