@@ -1,0 +1,19 @@
+{
+	"quick_themes":
+	[
+		{
+		},
+		{
+			"color_scheme": "Packages/Solarized Color Scheme/Solarized (Light).tmTheme",
+			"font_face": "Source Code Pro Sembibold",
+			"font_size": 10
+		}
+	],
+	"quick_themes_defaults":
+	{
+		"color_scheme": "Packages/Solarized Color Scheme/Solarized (Dark).tmTheme",
+		"font_face": "Source Code Pro Sembibold",
+		"font_size": 10
+	},
+	"quick_themes_selection": 1
+}

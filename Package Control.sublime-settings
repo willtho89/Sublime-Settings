@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Origami",
+		"Package Control",
+		"QuickThemes",
+		"rsub",
+		"Solarized Color Scheme",
+		"VBScript"
+	]
+}

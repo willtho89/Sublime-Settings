@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_face": "Source Code Pro Sembibold",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": true,
+	"translate_tabs_to_spaces": true
+}
